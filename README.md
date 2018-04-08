@@ -1,1 +1,1 @@
-# visual-studio-template
+# visualstudio-default
